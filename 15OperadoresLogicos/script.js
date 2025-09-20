@@ -4,8 +4,8 @@ Operadores Lógicos
 || (OR) OU
 !  (NOT) Não
 */
-console.log(true &&  true) // true
-console.log(true && false) // false
+console.log(true &&  true) // true se eu tenho dinheiro e esta chuvendo 'sim'
+console.log(true && false) // false 
 console.log(false && true) // false
 console.log(false && false) // false;
 // Todas as expressões precisam ser verdadeiras para retornar true
